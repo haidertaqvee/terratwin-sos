@@ -4,7 +4,7 @@
 
 - **Official Repository:** [https://github.com/haidertaqvee/terratwin-sos](https://github.com/haidertaqvee/terratwin-sos)
 - **Academic FYP Repository:** [https://github.com/haidertaqvee/digital-twin-fyp](https://github.com/haidertaqvee/digital-twin-fyp)
-- **Final Year Project (FYP):** BS Space Science, Institute of Space Technology, Islamabad (Supervised by Dr. Sajid Ghuffar)
+- **Final Year Project (FYP):** BS Space Science, Institute of Space Technology, Islamabad
 - **Hackathon Submission:** AI Builders Hackathon (Devpost, Deadline: September 15, 2026)
 - **Target Environments:** Web / Mobile (FastAPI + MapLibre GL 3D + Three.js + PWA) & Simulation (Unity URP)
 
