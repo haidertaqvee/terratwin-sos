@@ -107,8 +107,6 @@ digital-twin-fyp/
 
 ## 🎓 Academic & Hackathon Metadata
 
-- **Author:** Syed Muhammad Haider Taqvee
+- **Author:** Haider Taqveen
 - **Institution:** Institute of Space Technology (IST), Islamabad, Pakistan
 - **Degree:** BS Space Science
-- **Supervisor:** Dr. Sajid Ghuffar
-- **Submission:** AI Builders Hackathon (Devpost, September 2026)
